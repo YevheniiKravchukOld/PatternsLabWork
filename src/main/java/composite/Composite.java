@@ -1,4 +1,4 @@
-package main.java;
+package main.java.composite;
 
 /**
  * Created by evgenii on 07.09.16.
